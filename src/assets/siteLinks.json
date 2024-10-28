@@ -2,7 +2,7 @@
   {
     "icon": "Blog",
     "name": "Hexo博客",
-    "link": "https://blog.52013146.xyz/"
+    "link": "https://gob.us.kg/"
   },
   {
     "icon": "Blog",
@@ -17,7 +17,7 @@
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://52013146.xyz/"
+    "link": "https://www.gob.us.kg/"
   },
   {
     "icon": "Book",
@@ -27,11 +27,11 @@
   {
     "icon": "Fire",
     "name": "今日热榜",
-    "link": "https://hot.52013146.xyz/"
+    "link": "https://hot.gob.us.kg/"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.52013146.xyz/"
+    "link": "https://status.gob.us.kg/"
   }
 ]
